@@ -11,40 +11,40 @@
       "glyph": "plate",
       "label": "Services",
       "role": "structure",
-      "x": 0.5,
-      "y": 0.14
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
       "glyph": "key",
       "label": "Generate key",
       "role": "path",
-      "x": 0.5,
-      "y": 0.26
+      "x": 0.38,
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "plate",
       "label": "CSR",
       "role": "structure",
-      "x": 0.5,
-      "y": 0.38
+      "x": 0.62,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "plate",
       "label": "Issue chain",
       "role": "structure",
-      "x": 0.5,
-      "y": 0.5
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n5",
       "glyph": "plate",
       "label": "Connection",
       "role": "structure",
-      "x": 0.5,
-      "y": 0.62
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n6",
@@ -52,15 +52,15 @@
       "label": "Renew",
       "role": "structure",
       "x": 0.5,
-      "y": 0.74
+      "y": 0.7
     },
     {
       "id": "n7",
       "glyph": "audit",
       "label": "Audit",
       "role": "sense",
-      "x": 0.5,
-      "y": 0.86
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
